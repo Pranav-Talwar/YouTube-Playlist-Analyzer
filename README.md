@@ -1,4 +1,4 @@
-# Netflix-Data-Dashboard 
+# YouTube Playlist Analyzer
 
 <P>A modern, interactive web application that analyzes YouTube playlists and provides insightful, AI-powered analytics in a sleek, dark-themed dashboard. This project leverages the YouTube Data API and Hugging Face's summarization model to deliver a comprehensive overview of any public or unlisted YouTube playlist.</P>
 
@@ -17,7 +17,7 @@
 - Backend: Python, Flask
 - APIs: YouTube Data API, Hugging Face Inference API
 - Data Visualization: Matplotlib
-- Frontend: HTML5, CSS3 (Dark theme), JavaScript
+- Frontend: HTML5, CSS3, JavaScript
 - Other Tools: Pandas, Requests, Google API Client
   
 ---
