@@ -23,6 +23,5 @@
 ---
 <img src="https://raw.githubusercontent.com/Pranav-Talwar/YouTube-Playlist-Analyzer/main/public/Screenshot 2025-04-01 214640.png" alt="Project Screenshot" />
 <img src="https://raw.githubusercontent.com/Pranav-Talwar/YouTube-Playlist-Analyzer/main/public/Screenshot 2025-04-01 214338.png" alt="Project Screenshot" />
-<img src="https://raw.githubusercontent.com/Pranav-Talwar/YouTube-Playlist-Analyzer/main/public/Screenshot 2025-04-01 212156.png" alt="Project Screenshot" />
 
 
