@@ -21,8 +21,8 @@
 - Other Tools: Pandas, Requests, Google API Client
   
 ---
-<img src="https://raw.githubusercontent.com/Pranav-Talwar/Netflix-Analysis-Dashboard/main/Public/Screenshot 2025-04-01 214640.png" alt="Project Screenshot" />
-<img src="https://raw.githubusercontent.com/Pranav-Talwar/Netflix-Analysis-Dashboard/main/Public/Screenshot 2025-04-01 214338.png" alt="Project Screenshot" />
-<img src="https://raw.githubusercontent.com/Pranav-Talwar/Netflix-Analysis-Dashboard/main/Public/Screenshot 2025-04-01 212156.png" alt="Project Screenshot" />
+<img src="https://raw.githubusercontent.com/Pranav-Talwar/YouTube-Playlist-Analyzer/main/Public/Screenshot 2025-04-01 214640.png" alt="Project Screenshot" />
+<img src="https://raw.githubusercontent.com/Pranav-Talwar/YouTube-Playlist-Analyzer/main/Public/Screenshot 2025-04-01 214338.png" alt="Project Screenshot" />
+<img src="https://raw.githubusercontent.com/Pranav-Talwar/YouTube-Playlist-Analyzer/main/Public/Screenshot 2025-04-01 212156.png" alt="Project Screenshot" />
 
 
